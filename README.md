@@ -39,8 +39,9 @@ def stack_operations():
     print("\nStack after elements are popped:")
     print(stack)
 
-# Driver code
+### Driver code
 stack_operations()
+```
 
 # Output:
 
