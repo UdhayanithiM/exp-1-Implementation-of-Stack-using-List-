@@ -51,7 +51,7 @@ stack_operations()
 
 
 ### Result:
-Thus the breadth first search order was found sucessfully.""""'take an example give this format
+Thus, the implementation of stack using list was executed successfully and stack operations were performed correctly.
 
 
 
