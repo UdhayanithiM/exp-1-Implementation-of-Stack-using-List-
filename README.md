@@ -1,4 +1,5 @@
-# Ex.No: 1.1  Implementation of Stack using List  ### DATE: 10.04.2025                                                                          
+# Ex.No: 1.1  Implementation of Stack using List 
+### DATE: 10.04.2025                                                                          
 ### REGISTER NUMBER : 212222220054  
 
 ### AIM:  
